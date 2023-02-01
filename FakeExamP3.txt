@@ -1,0 +1,5 @@
+4
+France 12 22 68 1 CharlesDeGaulle
+États-Unis 45 6 3 7 USSNimitz USSTheodoreRoosevelt USSAbrahamLincoln USSGeorgeWashington USSHarryS.Truman USSRonaldReagan USSGeorgeH.W.Bush 
+Russie 54 6 8 1 AmiralKouznetsov
+Chine 400 20 10 2 Shandong Liaoning 
