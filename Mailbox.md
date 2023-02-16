@@ -1,4 +1,4 @@
-# Mailbox
+# ✉️ Mailbox
 Cet exercice vous permettra de vous exercer sur différentes notion :
  - Chaîne de caractère 
  - Fonction
@@ -15,7 +15,7 @@ Nous souhaitons créer un système de sauvegarde de brouillon pour une boîte ma
 - Créer une procèdure qui permet de remplir votre tableau
 - Dans main créer une boucle while qui permet de remplir votre tableau jusqu'a que la commande `/stop` soit indiqué dans le terminal
 - Créer une procédure qui permet d'afficher tout le tableau 
-- Dans main ajouté une commande `\showall` qui permet d'afficher tout les messages
+- Dans main ajouté une commande `/showall` qui permet d'afficher tout les messages
 
 Voici un exemple de déroulement :
 ```
